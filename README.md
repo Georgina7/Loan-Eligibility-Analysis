@@ -1,0 +1,1 @@
+This notebook covers exploratory data analysis, data cleaning such as dealing with outliers and skewness, feature transformation and engineering such as encoding, training of a logistic regression model, an SGD Classifier and a SVM(Linear Kernel). It also explores model explainability and feature importance using SHAP. 
